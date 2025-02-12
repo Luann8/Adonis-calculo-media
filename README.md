@@ -30,7 +30,7 @@ Este projeto é uma API simples construída com o framework AdonisJS. Ela permit
 3. **Inicie o servidor de desenvolvimento**:
 
     ```bash
-    adonis serve --dev
+    npm server.js
     ```
 
 4. **Acesse no navegador**:
